@@ -1,0 +1,1 @@
+var json_ssus1_4 = {"type":"FeatureCollection","name":"ssus1_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"ssus"},"geometry":{"type":"Point","coordinates":[76.43841074117077,10.170401643704086]}}]}
